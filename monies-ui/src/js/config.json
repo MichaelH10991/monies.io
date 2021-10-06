@@ -1,0 +1,32 @@
+{
+  "nav": [
+    {
+      "text": "Balance",
+      "link": "/balance"
+    },
+    {
+      "text": "Transactions",
+      "link": "/transactions"
+    }
+  ],
+  "endpoints": {
+    "posts": {
+      "url": "https://jsonplaceholder.typicode.com/posts"
+    },
+    "comments": {
+      "url": "https://jsonplaceholder.typicode.com/comments"
+    },
+    "albums": {
+      "url": "https://jsonplaceholder.typicode.com/albums"
+    },
+    "photos": {
+      "url": "https://jsonplaceholder.typicode.com/photos"
+    },
+    "todos": {
+      "url": "https://jsonplaceholder.typicode.com/todos"
+    },
+    "users": {
+      "url": "https://jsonplaceholder.typicode.com/users"
+    }
+  }
+}
